@@ -174,4 +174,4 @@ claude-time-awareness/
 
 ## License
 
-MIT
+MIT License — free to use, modify, and distribute. See [LICENSE](LICENSE) for full terms.
